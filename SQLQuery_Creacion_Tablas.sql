@@ -88,8 +88,9 @@ CREATE TABLE [dbo].[Visita] (
     [FechaHora] DATETIME NOT NULL,
     [Precio_total] FLOAT NULL,
 	[es_Reconsulta] int NULL,
-    [Id_Visita_inicial] INT NOT NULL,
-	CONSTRAINT [PK_Visita] PRIMARY KEY CLUSTERED ([Id_Visita] ASC),
+    --[Id_Visita_inicial] INT  NOT NULL,
+    [Id_Visita_inicial] INT, --LA VISITA PUEDE SER NULO CUANDO ES LA VISITA INICIAL
+ CONSTRAINT [PK_Visita] PRIMARY KEY CLUSTERED ([Id_Visita] ASC), 
     CONSTRAINT [FK_Visita_Paciente] FOREIGN KEY ([Id_Paciente]) REFERENCES [dbo].[Paciente] ([Id_Paciente]),
 	);
 GO
