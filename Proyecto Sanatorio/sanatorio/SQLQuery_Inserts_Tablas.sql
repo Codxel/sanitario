@@ -1,4 +1,4 @@
-USE [SANITARIO4]
+USE [SANITARIO]
 GO
 
 -- Poblar tabla Servicio
