@@ -31,22 +31,22 @@ INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimien
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (2, 12345678, N'Ana', N'Gonz�lez', CAST(N'1980-01-15T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (3, 23456789, N'Luis', N'Mart�nez', CAST(N'1975-05-20T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (4, 34567890, N'Carla', N'P�rez', CAST(N'1990-09-10T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (5, 45678901, N'Juan', N'Torres', CAST(N'1985-03-25T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (5, 53458499, N'Juan', N'Torres', CAST(N'1985-03-25T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (6, 56789012, N'Sof�a', N'Morales', CAST(N'1992-06-30T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (7, 67890123, N'Miguel', N'Fern�ndez', CAST(N'1983-12-05T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (8, 78901234, N'Paola', N'Silva', CAST(N'1995-07-14T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (9, 89012345, N'Andr�s', N'Reyes', CAST(N'1978-11-22T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (10, 90123456, N'Teresa', N'Castro', CAST(N'1989-04-17T00:00:00.000' AS DateTime)) 
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (7, 63234435, N'Miguel', N'Fern�ndez', CAST(N'1983-12-05T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (8, 72374432, N'Paola', N'Silva', CAST(N'1995-07-14T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (9, 75243444, N'Andr�s', N'Reyes', CAST(N'1978-11-22T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (10, 90323456, N'Teresa', N'Castro', CAST(N'1989-04-17T00:00:00.000' AS DateTime)) 
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (11, 90123455, N'Carlos', N'Lara', CAST(N'1989-04-17T00:00:00.000' AS DateTime)) 
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (12, 12345678, N'Ana', N'Gonz�lez', CAST(N'1980-01-15T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (13, 23456789, N'Luis', N'Mart�nez', CAST(N'1975-05-20T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (14, 34567890, N'Carla', N'P�rez', CAST(N'1990-09-10T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (15, 45678901, N'Juan', N'Torres', CAST(N'1985-03-25T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (16, 56789012, N'Sof�a', N'Morales', CAST(N'1992-06-30T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (17, 67890123, N'Miguel', N'Fern�ndez', CAST(N'1983-12-05T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (18, 78901234, N'Paola', N'Silva', CAST(N'1995-07-14T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (19, 89012345, N'Andr�s', N'Reyes', CAST(N'1978-11-22T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (20, 90123456, N'Teresa', N'Castro', CAST(N'1989-04-17T00:00:00.000' AS DateTime)) 
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (12, 12344678, N'Ana', N'Gonz�lez', CAST(N'1980-01-15T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (13, 12353112, N'Luis', N'Mart�nez', CAST(N'1975-05-20T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (14, 12444356, N'Carla', N'P�rez', CAST(N'1990-09-10T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (15, 54331199, N'Juan', N'Torres', CAST(N'1985-03-25T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (16, 56789053, N'Sof�a', N'Morales', CAST(N'1992-06-30T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (17, 67830123, N'Miguel', N'Fern�ndez', CAST(N'1983-12-05T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (18, 72374435, N'Paola', N'Silva', CAST(N'1995-07-14T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (19, 89012333, N'Andr�s', N'Reyes', CAST(N'1978-11-22T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (20, 90323457, N'Teresa', N'Castro', CAST(N'1989-04-17T00:00:00.000' AS DateTime)) 
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (21, 45612378, N'María', N'Ramírez', CAST(N'1981-02-12T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (22, 34567899, N'Pedro', N'Vargas', CAST(N'1976-06-21T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (23, 23456780, N'Lucía', N'Figueroa', CAST(N'1993-08-10T00:00:00.000' AS DateTime))
@@ -62,7 +62,7 @@ INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimien
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (33, 78901236, N'Carolina', N'Fernández', CAST(N'1994-10-28T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (34, 89012347, N'Ignacio', N'López', CAST(N'1980-06-06T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (35, 23456782, N'Laura', N'Esquivel', CAST(N'1989-08-13T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (36, 56789015, N'Fernando', N'Martínez', CAST(N'1985-11-27T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (36, 56739015, N'Fernando', N'Martínez', CAST(N'1985-11-27T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (37, 67890125, N'Isabel', N'Serrano', CAST(N'1990-09-30T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (38, 12345680, N'Marco', N'Salazar', CAST(N'1997-02-11T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (39, 34567892, N'Elena', N'Campos', CAST(N'1974-03-20T00:00:00.000' AS DateTime))
@@ -92,20 +92,20 @@ INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimien
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (63, 89023456, N'Raúl', N'Campos', CAST(N'1983-02-18T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (64, 90134567, N'Isabel', N'Cordero', CAST(N'1991-04-30T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (65, 12345670, N'Pablo', N'Esquivel', CAST(N'1977-09-10T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (66, 23456781, N'Rosa', N'Rentería', CAST(N'1989-03-25T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (67, 34567892, N'Andrés', N'Valencia', CAST(N'1980-05-14T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (66, 23456731, N'Rosa', N'Rentería', CAST(N'1989-03-25T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (67, 34567812, N'Andrés', N'Valencia', CAST(N'1980-05-14T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (68, 45678903, N'Fernanda', N'Quintana', CAST(N'1994-12-03T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (69, 56789014, N'Emilio', N'Salazar', CAST(N'1979-11-09T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (70, 67890125, N'Gloria', N'Cano', CAST(N'1987-08-24T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (71, 78901236, N'Fabián', N'Contreras', CAST(N'1986-02-05T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (72, 89012347, N'Sandra', N'Lozano', CAST(N'1993-07-21T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (69, 56769015, N'Emilio', N'Salazar', CAST(N'1979-11-09T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (70, 67890122, N'Gloria', N'Cano', CAST(N'1987-08-24T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (71, 78901231, N'Fabián', N'Contreras', CAST(N'1986-02-05T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (72, 89012317, N'Sandra', N'Lozano', CAST(N'1993-07-21T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (73, 90123458, N'Jorge', N'León', CAST(N'1978-03-08T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (74, 12345671, N'Claudia', N'Medina', CAST(N'1990-12-22T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (75, 23456782, N'Armando', N'Duarte', CAST(N'1981-05-17T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (75, 23456892, N'Armando', N'Duarte', CAST(N'1981-05-17T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (76, 34567893, N'Renato', N'Bermúdez', CAST(N'1979-11-19T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (77, 45678904, N'Elena', N'Pacheco', CAST(N'1985-07-30T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (78, 56789015, N'Leonardo', N'Sepúlveda', CAST(N'1977-06-15T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (79, 67890126, N'Inés', N'Gil', CAST(N'1989-01-14T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (78, 56789115, N'Leonardo', N'Sepúlveda', CAST(N'1977-06-15T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (79, 67890326, N'Inés', N'Gil', CAST(N'1989-01-14T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (80, 78901237, N'Gustavo', N'Barrios', CAST(N'1984-09-18T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (81, 89012348, N'Roxana', N'Santana', CAST(N'1995-04-11T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (82, 90123459, N'Francisco', N'Aguilar', CAST(N'1983-10-23T00:00:00.000' AS DateTime))
@@ -113,12 +113,100 @@ INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimien
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (84, 23456783, N'Alberto', N'Medrano', CAST(N'1975-08-08T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (85, 34567894, N'Laura', N'Monroy', CAST(N'1986-06-26T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (86, 45678905, N'Javier', N'Cruz', CAST(N'1990-03-15T00:00:00.000' AS DateTime))
-INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (87, 56789016, N'Natalia', N'Romero', CAST(N'1988-11-27T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (87, 56389016, N'Natalia', N'Romero', CAST(N'1988-11-27T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (88, 67890127, N'Miguel', N'Palacios', CAST(N'1994-10-05T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (89, 78901238, N'Gloria', N'Reyes', CAST(N'1982-12-19T00:00:00.000' AS DateTime))
 INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (90, 89012349, N'Ricardo', N'López', CAST(N'1978-01-21T00:00:00.000' AS DateTime))
-
-
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (91, 90123460, N'Lucía', N'Carrillo', CAST(N'1992-07-13T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (92, 12345673, N'Santiago', N'Castillo', CAST(N'1983-02-17T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (93, 23456784, N'Estela', N'Garrido', CAST(N'1979-10-04T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (94, 34567895, N'Vicente', N'Bravo', CAST(N'1987-05-29T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (95, 45678906, N'Marina', N'Herrera', CAST(N'1989-09-23T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (96, 56789017, N'Gabriel', N'Núñez', CAST(N'1982-12-09T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (97, 67890128, N'Paula', N'Ortiz', CAST(N'1994-11-18T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (98, 78901239, N'Gustavo', N'Murillo', CAST(N'1981-01-27T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (99, 89012350, N'Valeria', N'Cruz', CAST(N'1995-03-03T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (100, 90123461, N'Roberto', N'Vega', CAST(N'1980-06-17T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (101, 12345674, N'Patricia', N'Acosta', CAST(N'1984-08-31T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (102, 23456785, N'Enrique', N'Benítez', CAST(N'1987-04-22T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (103, 34567896, N'Jimena', N'Camacho', CAST(N'1992-10-12T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (104, 45678907, N'Leonel', N'Esparza', CAST(N'1981-02-19T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (105, 56789018, N'Alina', N'Marín', CAST(N'1993-09-11T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (106, 67890129, N'Omar', N'Mendoza', CAST(N'1977-07-07T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (107, 78901240, N'Carolina', N'Rendón', CAST(N'1983-01-04T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (108, 89012351, N'Julio', N'Zavala', CAST(N'1990-06-21T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (109, 90123462, N'Andrea', N'Rosales', CAST(N'1985-10-15T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (110, 12345675, N'Federico', N'Tapia', CAST(N'1992-03-28T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (111, 23456786, N'Marta', N'Flores', CAST(N'1986-08-24T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (112, 34567897, N'Diego', N'Solano', CAST(N'1978-11-10T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (113, 45678908, N'Lorena', N'Paredes', CAST(N'1990-02-05T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (114, 56789019, N'Adrián', N'Mendoza', CAST(N'1982-12-30T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (115, 67890130, N'Isabel', N'Moreno', CAST(N'1989-07-07T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (116, 78901241, N'Ricardo', N'Rojas', CAST(N'1977-05-18T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (117, 89012352, N'Natalia', N'Domínguez', CAST(N'1981-10-25T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (118, 90123463, N'Ernesto', N'Campos', CAST(N'1993-09-14T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (119, 12345676, N'Liliana', N'Valdez', CAST(N'1988-01-20T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (120, 23456787, N'Fernando', N'Marquez', CAST(N'1979-03-12T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (121, 34567898, N'Daniela', N'Sosa', CAST(N'1985-05-08T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (122, 45678909, N'Agustín', N'Romero', CAST(N'1990-10-02T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (123, 56789020, N'Regina', N'Vargas', CAST(N'1986-11-30T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (124, 67890131, N'Fabián', N'Cárdenas', CAST(N'1982-07-22T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (125, 78901242, N'Monica', N'Fernández', CAST(N'1994-02-16T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (126, 89012353, N'Sergio', N'Torres', CAST(N'1987-06-05T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (127, 90123464, N'Lucía', N'Guzmán', CAST(N'1991-03-09T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (128, 12345677, N'Marco', N'Giménez', CAST(N'1984-12-18T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (129, 23456788, N'Mariana', N'Escobar', CAST(N'1988-04-01T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (130, 34557899, N'Jorge', N'Suárez', CAST(N'1975-08-29T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (131, 54334499, N'Valeria', N'Mejía', CAST(N'1992-10-13T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (132, 56749013, N'Gabriel', N'Peña', CAST(N'1987-07-03T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (133, 67890424, N'Inés', N'Sandoval', CAST(N'1979-12-19T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (134, 72376435, N'Julio', N'Contreras', CAST(N'1983-09-25T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (135, 89443245, N'Silvia', N'García', CAST(N'1989-01-15T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (136, 90323459, N'Francisco', N'Moreno', CAST(N'1980-04-04T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (137, 12343678, N'Andrea', N'Roldán', CAST(N'1993-05-28T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (138, 12353113, N'Maximiliano', N'Navarro', CAST(N'1986-08-07T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (139, 12453456, N'Carolina', N'Vera', CAST(N'1991-11-21T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (140, 54934499, N'Félix', N'Ocampo', CAST(N'1977-07-30T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (141, 56789518, N'Elena', N'Giménez', CAST(N'1984-02-11T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (142, 67890533, N'Joaquín', N'Cruz', CAST(N'1990-09-16T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (143, 72306435, N'Diana', N'Ortiz', CAST(N'1988-10-03T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (144, 82243245, N'Enrique', N'Torrez', CAST(N'1981-03-14T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (145, 90323659, N'Luciana', N'Peralta', CAST(N'1995-06-18T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (146, 12342511, N'Mariano', N'Villalba', CAST(N'1985-12-06T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (147, 12353555, N'Mariela', N'Acosta', CAST(N'1987-04-26T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (148, 12458456, N'Pedro', N'Quinteros', CAST(N'1976-01-20T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (149, 64934499, N'Emilia', N'Román', CAST(N'1994-11-12T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (150, 56782012, N'Cristian', N'Fernández', CAST(N'1982-09-04T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (151, 61231231, N'Paula', N'Alvarez', CAST(N'1988-07-11T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (152, 78901233, N'Roberto', N'Vargas', CAST(N'1979-08-27T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (153, 82243246, N'Clara', N'Mendoza', CAST(N'1984-11-30T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (154, 90323654, N'Leandro', N'Campos', CAST(N'1990-01-18T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (155, 12342321, N'Sonia', N'Benítez', CAST(N'1987-06-22T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (156, 12353556, N'Cristian', N'Rojas', CAST(N'1978-09-14T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (157, 12458156, N'Patricia', N'Acevedo', CAST(N'1994-05-12T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (158, 72934499, N'Agustín', N'Sáenz', CAST(N'1992-03-19T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (159, 56589012, N'Lucía', N'Domínguez', CAST(N'1983-02-07T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (160, 62234231, N'Fernando', N'Gutiérrez', CAST(N'1985-04-28T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (161, 72314499, N'Julia', N'Vera', CAST(N'1979-06-09T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (162, 75243246, N'Jorge', N'Serrano', CAST(N'1986-10-21T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (163, 90332114, N'Estefanía', N'Núñez', CAST(N'1993-09-13T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (164, 12345111, N'Marco', N'Espinosa', CAST(N'1984-12-29T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (165, 12253556, N'Alejandra', N'Cabrera', CAST(N'1991-05-25T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (166, 12458498, N'Daniel', N'Ramírez', CAST(N'1988-03-04T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (167, 72954499, N'Elisa', N'Martín', CAST(N'1994-02-17T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (168, 56769012, N'Carlos', N'Padilla', CAST(N'1989-07-23T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (169, 62234431, N'Isabel', N'González', CAST(N'1982-11-03T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (170, 72374499, N'Raúl', N'Martínez', CAST(N'1981-06-15T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (171, 75243266, N'Mariana', N'Herrera', CAST(N'1995-10-06T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (172, 90123956, N'Adrián', N'Ríos', CAST(N'1977-12-02T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (173, 12353111, N'Manuel', N'Salinas', CAST(N'1987-04-08T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (174, 12253356, N'Lorena', N'Morales', CAST(N'1992-08-24T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (175, 12458499, N'Gustavo', N'Reyes', CAST(N'1980-11-09T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (176, 45678971, N'Martina', N'Duarte', CAST(N'1990-06-26T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (177, 56789072, N'Federico', N'Tapia', CAST(N'1985-01-09T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (178, 62234435, N'Viviana', N'López', CAST(N'1976-09-01T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (179, 72374492, N'Tomás', N'Guerrero', CAST(N'1993-03-18T00:00:00.000' AS DateTime))
+INSERT [dbo].[Medico] ([Id_Medico], [DNI], [Nombre], [Apellidos], [FechaNacimiento]) VALUES (180, 75243432, N'Natalia', N'Carrillo', CAST(N'1987-07-29T00:00:00.000' AS DateTime))
 SET IDENTITY_INSERT [dbo].[Medico] OFF 
  
  -- Poblar la tabla Hospitales
@@ -208,7 +296,7 @@ INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hos
 INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (40, 19, 2, '80') -- Rayos X
 INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (41, 20, 2, '110') -- Fisioterapia
 
-INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (42, 42, 4, '90') -- analisis clinicos
+INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (42, 1, 4, '90') -- analisis clinicos
 INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (43, 2, 4, '150') -- Cardiologia
 INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (44, 3, 4, '150') -- Pediatria
 INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (45, 4, 4, '150') -- Ginecolog�a
@@ -397,73 +485,3 @@ INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hos
 INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (220, 19, 12, '80') -- Rayos X
 INSERT [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital], [Id_Servicio], [Id_Hospital], [Precio]) VALUES (221, 20, 12, '80') -- Fisioterapia
 SET IDENTITY_INSERT [dbo].[Servicio_Hospital] OFF
-
-
--- Turn off identity insert to allow automatic ID generation
-SET IDENTITY_INSERT [dbo].[Medico_Hospital_Servicio] OFF;
-
-
-SET IDENTITY_INSERT [dbo].[Medico_Hospital_Servicio] OFF;
-
-INSERT INTO [dbo].[Medico_Hospital_Servicio] 
-([Id_Medico], [Id_Servicio_Hospital], [Cargo], [Precio], [Fecha_Desde], [Fecha_Hasta])
-VALUES 
-    -- Análisis Clínicos
-    (1, 2, 'Analista Clínico Senior', 85.00, '2023-01-01', NULL),
-    (2, 2, 'Analista Clínico', 75.00, '2023-02-15', NULL),
-    
-    -- Cardiología
-    (3, 3, 'Cardiólogo Jefe', 165.00, '2023-01-01', NULL),
-    (4, 3, 'Cardiólogo', 140.00, '2022-06-01', NULL),
-    
-    -- Pediatría
-    (5, 4, 'Pediatra Senior', 160.00, '2023-01-01', NULL),
-    (6, 4, 'Pediatra', 145.00, '2023-03-15', NULL),
-    
-    -- Ginecología
-    (7, 5, 'Ginecólogo Jefe', 165.00, '2022-11-01', NULL),
-    
-    -- Odontología
-    (8, 6, 'Odontólogo Senior', 160.00, '2023-01-01', NULL),
-    (9, 6, 'Odontólogo', 145.00, '2023-02-01', NULL),
-    
-    -- Neurología
-    (10, 7, 'Neurólogo', 155.00, '2023-01-01', NULL),
-    
-    -- Oncología
-    (11, 8, 'Oncólogo Senior', 160.00, '2022-09-15', NULL),
-    
-    -- Gastroenterología
-    (12, 9, 'Gastroenterólogo', 155.00, '2023-01-01', NULL),
-    
-    -- Infectología
-    (13, 10, 'Infectólogo', 85.00, '2023-01-01', NULL),
-    
-    -- Radiología
-    (14, 11, 'Radiólogo Jefe', 90.00, '2022-07-01', NULL),
-    (15, 11, 'Radiólogo', 75.00, '2023-01-01', NULL),
-    
-    -- Múltiples servicios para algunos médicos
-    (16, 18, 'Especialista en Tomografía', 95.00, '2023-01-01', NULL),
-    (16, 19, 'Técnico en Rayos X', 85.00, '2023-01-01', NULL),
-    
-    -- Traumatología
-    (17, 12, 'Traumatólogo', 155.00, '2023-01-01', NULL),
-    
-    -- Endocrinología
-    (18, 13, 'Endocrinólogo Senior', 160.00, '2023-01-01', NULL),
-    
-    -- Fisioterapia
-    (19, 21, 'Fisioterapeuta Senior', 120.00, '2023-01-01', NULL),
-    (20, 21, 'Fisioterapeuta', 100.00, '2023-02-01', NULL),
-    
-    -- Urología
-    (21, 16, 'Urólogo Jefe', 160.00, '2023-01-01', NULL);
-
--- Histórico de cambios para algunos médicos
-INSERT INTO [dbo].[Medico_Hospital_Servicio] 
-([Id_Medico], [Id_Servicio_Hospital], [Cargo], [Precio], [Fecha_Desde], [Fecha_Hasta])
-VALUES 
-    (3, 3, 'Cardiólogo Senior', 150.00, '2022-01-01', '2022-12-31'),
-    (7, 5, 'Ginecólogo Senior', 150.00, '2022-01-01', '2022-10-31'),
-    (14, 11, 'Radiólogo Senior', 85.00, '2022-01-01', '2022-06-30');
