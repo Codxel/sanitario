@@ -1,4 +1,4 @@
-USE [SANITARIO];
+USE [Sanitario7];
 GO
 
 -- Tabla Paciente
@@ -32,6 +32,7 @@ CREATE TABLE [dbo].[Servicio] (
     CONSTRAINT [PK_Servicio] PRIMARY KEY CLUSTERED ([Id_Servicio] ASC)
 );
 GO
+
 
 -- Tabla Hospital
 CREATE TABLE [dbo].[Hospital] (
@@ -68,6 +69,7 @@ CREATE TABLE [dbo].[Servicio_Hospital] (
 );
 GO
 
+
 -- Tabla Cama
 CREATE TABLE [dbo].[Cama] (
     [Id_Cama] INT IDENTITY(1,1) NOT NULL,
@@ -81,6 +83,8 @@ CREATE TABLE [dbo].[Cama] (
 );
 GO
 
+
+
 -- Tabla Visita
 CREATE TABLE [dbo].[Visita] (
     [Id_Visita] INT IDENTITY(1,1) NOT NULL,
@@ -88,9 +92,8 @@ CREATE TABLE [dbo].[Visita] (
     [FechaHora] DATETIME NOT NULL,
     [Precio_total] FLOAT NULL,
 	[es_Reconsulta] int NULL,
-    --[Id_Visita_inicial] INT  NOT NULL,
-    [Id_Visita_inicial] INT, --LA VISITA PUEDE SER NULO CUANDO ES LA VISITA INICIAL
- CONSTRAINT [PK_Visita] PRIMARY KEY CLUSTERED ([Id_Visita] ASC), 
+    [Id_Visita_inicial] INT NOT NULL,
+	CONSTRAINT [PK_Visita] PRIMARY KEY CLUSTERED ([Id_Visita] ASC),
     CONSTRAINT [FK_Visita_Paciente] FOREIGN KEY ([Id_Paciente]) REFERENCES [dbo].[Paciente] ([Id_Paciente]),
 	);
 GO
@@ -109,6 +112,7 @@ CREATE TABLE [dbo].[Medico_Hospital_Servicio] (
 	CONSTRAINT [FK_Servicio_Hospital] FOREIGN KEY ([Id_Servicio_Hospital]) REFERENCES [dbo].[Servicio_Hospital] ([Id_Servicio_Hospital])
    );
 GO
+
 
 -- Tabla Detalle_Visita
 CREATE TABLE [dbo].[Detalle_Visita] (
@@ -140,3 +144,4 @@ CREATE TABLE [dbo].[Estudio] (
 	CONSTRAINT [FK_Detalle_Visita] FOREIGN KEY ([Id_Detalle_Visita]) REFERENCES [dbo].[Detalle_Visita] ([Id_Detalle_Visita])
 );
 GO
+
